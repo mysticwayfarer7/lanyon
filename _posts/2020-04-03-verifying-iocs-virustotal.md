@@ -28,14 +28,14 @@ Note that there are three tabs,
 * The end result would be as following except the IP mentioned is a dummy ip being used as an example.
 
 
-![alt text](https://mysticwayfarer7.github.io/mssp-soc/images/2.png "Virus Total Search Page")
+![alt text](https://mysticwayfarer7.github.io/mssp-soc/images/3.png "Virus Total Search Page")
 
 * Next click on the search icon (magnifier glass icon) at the right end of the textbox visible on the page.
 * Wait for the page to load itself with results about the pasted IP.
 * The result page would either report it as malicious or clean in the following way.
 
 
-![alt text](https://mysticwayfarer7.github.io/mssp-soc/images/3.png "Virus Total Result Page")
+![alt text](https://mysticwayfarer7.github.io/mssp-soc/images/2.png "Virus Total Result Page")
 
 * Even if one of the engine’s mentioned in the result report it as malicious, we will share with client the remedial steps.
 * If all the engine’s mention ‘Clean’ next to their name as visible for some of the engines in above picture, it can be considered as safe.
