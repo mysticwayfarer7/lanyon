@@ -22,7 +22,7 @@ Some of the options that can be pursued to troubleshoot and resolve this issue h
 
 * This will give you a command line access to Alien Vault server and screen will be displayed as below.
 
-![alt text](https://mysticwayfarer7.github.io/mssp-soc/images/5.png "Alien Vault Confirmation")
+![alt text](https://mysticwayfarer7.github.io/mssp-soc/images/6.png "Alien Vault Confirmation")
 
 * Run the following command in the console and wait for this to complete. Command: /etc/init.d/ossim-agent restart
 
