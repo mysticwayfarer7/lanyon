@@ -5,8 +5,6 @@ title: Alien Vault Alarms Not Recevied
 
 
 
-### ALIENVAULT: ALARMS NOT RECEIVED
-
 For all MSSPs or users who are working with Alien Vault as a SIEM solution in their enterpise infrastructure it is common to get into problem because of alarms not being triggered in the SIEM solution. Now this could happen for multiple reasons which requires troubleshooting across the whole data piple line and finding the point where things are broked or need a little push.
 
 Some of the options that can be pursued to troubleshoot and resolve this issue have been mentioned below:
