@@ -1,12 +1,35 @@
 ---
 layout: post
-title: What's Jekyll?
+title: Alien Vault Reconfiguration
 ---
 
-[Jekyll](https://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
 
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+Alienvault-reconfig creates the live configuration, loads the appropriate values, and makes sure all appropriate changes are made to dependent service configurations. Alienvault-reconfig command will initiate those changes, writing them to the appropriate configuration files and database fields and then hupping or restarting the appropriate services to load those changes. 
 
-It's an immensely useful tool and one we encourage you to use here with Lanyon.
+Some of the options that can be pursued to troubleshoot and resolve this issue have been mentioned below:
 
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+
+* Login to Alien Vault server using putty with “root” credentials.
+* After login, you will see the following screen.
+
+![alt text](https://mysticwayfarer7.github.io/mssp-soc/images/4.png "Alien Vault Console Login Page")
+
+* Select the “Jailbreak System”
+* Click “Yes” or Press “Enter” from the keyboard and accept the “Jailbreak Commandline Notice” in next screen by clicking “Yes:”
+
+![alt text](https://mysticwayfarer7.github.io/mssp-soc/images/5.png "Alien Vault Confirmation")
+
+* This will give you a command line access to Alien Vault server and screen will be displayed as below.
+
+![alt text](https://mysticwayfarer7.github.io/mssp-soc/images/6.png "Alien Vault Confirmation")
+
+* Run the following command in the console and wait for this to complete. Command: alienvault-reconfig -c -v –d
+
+![alt text](https://mysticwayfarer7.github.io/mssp-soc/images/9.png "Alien Vault Reconfig Agent Restart")
+
+* If the above command ran successfully, wait for at least 5 minutes and refresh the Alien Vault Alarms page in browser.
+
+![alt text](https://mysticwayfarer7.github.io/mssp-soc/images/8.png "Alien Vault Browser GUI")
+
+If something is still wrong and you don't see the alerts in the web GUI, then we need to pivot and try some other method. The next suggested step is a bit too much at this stage but will get you through the task. Click Here for the Alien Vault Reconfiguration
+
