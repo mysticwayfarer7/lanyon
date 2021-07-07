@@ -26,11 +26,11 @@ Some of the options that can be pursued to troubleshoot and resolve this issue h
 
 * Run the following command in the console and wait for this to complete. Command: /etc/init.d/ossim-agent restart
 
-![alt text](https://mysticwayfarer7.github.io/mssp-soc/images/6.png "OSSIM Agent Restart")
+![alt text](https://mysticwayfarer7.github.io/mssp-soc/images/7.png "OSSIM Agent Restart")
 
 * If the above command ran successfully, wait for at least 5 minutes and refresh the Alien Vault Alarms page in browser.
 
-![alt text](https://mysticwayfarer7.github.io/mssp-soc/images/7.png "Alien Vault Browser GUI")
+![alt text](https://mysticwayfarer7.github.io/mssp-soc/images/8.png "Alien Vault Browser GUI")
 
 If something is still wrong and you don't see the alerts in the web GUI, then we need to pivot and try some other method. The next suggested step is a bit too much at this stage but will get you through the task. Click Here for the Alien Vault Reconfiguration
 
