@@ -31,5 +31,5 @@ Some of the options that can be pursued to troubleshoot and resolve this issue h
 
 ![alt text](https://mysticwayfarer7.github.io/mssp-soc/images/8.png "Alien Vault Browser GUI")
 
-If something is still wrong and you don't see the alerts in the web GUI, then we need to pivot and try some other method. The next suggested step is a bit too much at this stage but will get you through the task. Click Here for the Alien Vault Reconfiguration
+If something is still wrong and you don't see the alerts in the web GUI, then we need to pivot and try some other method. The next suggested step is a bit too much at this stage but will get you through the task. Click Here for the Event Level Troubleshooting or [here](https://mysticwayfarer7.github.io/mssp-soc/2020/04/04/alarms-notcoming-alienvault/) for OSSIM agent troubleshoot if alarms are not coming.
 
