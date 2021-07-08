@@ -5,7 +5,10 @@ title: The Project Phoenix
 
 
 
-One of my goals in 2019 was to read the DevOps book "The Phoenix Project" again to review the book and grasp the ideas in a better way, Last time, I had read this book was during my Master when main objective was to get done with the course requirements rather than actually understanding what is it about. This is a great novel which revolves around a project with many challenges popping up on the go and an organizational culture which is in a chaos. This book successfully takes into account the critical issues faced by operations and development teams while also touching the key areas such as the importance of mapping between business requirements and information technology as an enabler of business.
+One of my goals in 2019 was to read the DevOps book "The Phoenix Project" again to review the book and grasp the ideas in a better way, Last time, I had read this book was during my Master when main objective was to get done with the course requirements rather than actually understanding what is it about. This is a great novel which revolves around a project with many challenges popping up on the go and an organizational culture which is in a chaos. 
+
+This book successfully takes into account the critical issues faced by operations and development teams while also touching the key areas such as the importance of mapping between business requirements and information technology as an enabler of business.
+
 I am just shortlisting few of the lessons that I have notices one can get from reading this book, however I'll highly recommend to read this book for someone who is in operations or development teams.
 
 ### IT as Enabler:
@@ -16,7 +19,7 @@ Information technology has successfully made its place to the critical areas of 
 
 Business department brings in most of the revenue unlike IT departments which is seen as a just a cost for business with no visible ROI in terms of numbers (Unless your business model is all IT oriented). All the supporting departments have to cater the business unit, by understanding the business goals and objectives clearly and work together to achieve the same goals. Business on the other hand, has to be clear on its requirements and pain points which it should share more openly with relevant stakeholders to come to a common workable way forward.
 
-#### Scope:
+### Scope:
 
 This goes without saying that with no clear scope of a project, it is confirmed heading towards a failure. If any project is to be initiated, we need define the clear objectives and scope of the project to understand the requirements and identifying the relevant stakeholders. This has to trickle down in every task under any project to be very clear about the scope.
 
