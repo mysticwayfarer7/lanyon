@@ -3,9 +3,6 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
 This is a place for all the knowledge that is required for any SOC, MSSP or other security operations team to setup the SOC and providing the clients exceptional SOC as a service. We do our best to provide you the latest and quality information to setup your service. 
 
