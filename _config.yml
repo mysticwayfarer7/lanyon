@@ -1,7 +1,7 @@
 # Setup
-title:               Security Operations Center - Mysticwayfarer
+title:               Security Operations Center - Relative Security
 tagline:             'Relative Security'
-description:         'A home for all the security experiments.  Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'A home for all the security experiments.'
 url:                 
 baseurl:             '/mssp-soc'
 paginate:            3
