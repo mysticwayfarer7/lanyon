@@ -4,13 +4,13 @@ tagline:             'Relative Security'
 description:         'A home for all the security experiments.  Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 
 baseurl:             '/mssp-soc'
-paginate:            5
+paginate:            3
 permalink:           pretty
 
 # About/contact
 author:
   name:              Bilal Ahmad
-  url:               https://twitter.com/mdo
+  url:               http://mysticwayfarer7.github.io/mssp-soc/
   email:             mysticwayfarer7@gmail.com
 
 # Gems
