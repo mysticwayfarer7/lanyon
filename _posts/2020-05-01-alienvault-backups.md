@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Alien Vault - Backups
+categories: SIEM AlienVault
 ---
 
 
